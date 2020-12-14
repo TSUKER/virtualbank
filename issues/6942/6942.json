@@ -1,0 +1,60 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": "2010-08-14T13:02:55.87-07:00",
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "Create a form page for CRUDing bills. From this page the user should also be able to add Payees on the fly using ASP.NET modal popup extender.",
+    "LastUpdatedDate": "2017-11-29T11:41:46.72-08:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "High",
+      "Severity": 150,
+      "Id": 3
+    },
+    "ProjectName": "virtualbank",
+    "ReportedDate": "2010-08-14T12:59:22.533-07:00",
+    "Status": {
+      "Name": "Closed",
+      "Id": 4
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Add CRUD functionality for DebtAccounts (bills).",
+    "Type": {
+      "Name": "Feature",
+      "Id": 1
+    },
+    "VoteCount": 0,
+    "Id": 6942
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "Resolved with changeset 56108.",
+      "PostedDate": "2010-08-14T13:02:55.87-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-02-13T12:23:58.117-08:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-05-14T15:01:18.96-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2017-11-29T11:41:46.72-08:00",
+      "Id": -2147483648
+    }
+  ]
+}

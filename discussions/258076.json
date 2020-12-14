@@ -1,0 +1,10 @@
+[
+  {
+    "Id": "614592",
+    "ThreadId": "258076",
+    "Html": "\r\n<p>So I abandoned this project for quite some time.. the reason being that my bank (PNC) released a product called &quot;Virtual Wallet&quot; which at first glance seemed to be exactly what I was looking to create. Having given it a try for some time I have come to the\r\n conclusion that while &quot;Virtual Wallet&quot; is a fantastic application and probably one of the best free tools I have seen offered by any bank, it is still way too complicated for my needs and because it ties directly into my bank account I am often reluctant to\r\n configure scheduled transactions. Another huge issue with the application is performance... it appears to be mostly flash based which is their first problem. Folks, flash is an awesome technology but horribly slow and should really not be used for productivity\r\n applications; especially with frameworks like jQuery available.</p>\r\n<p>As my life starts slowing down a bit this summer I've decided to give some much needed attention back to this project and take a more direct approach to its development. I'm also going to do my best to use this site as kind of a running blog of my development\r\n (in addition to check-in notes of course). I don't necessarily expect anyone to be too interested in what I have to say but hey, maybe I'm wrong?</p>\r\n",
+    "PostedDate": "2011-05-18T06:26:40.683-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]
